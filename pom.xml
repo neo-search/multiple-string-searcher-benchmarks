@@ -84,6 +84,11 @@
 			<artifactId>jmh-generator-annprocess</artifactId>
 			<version>${openjdk.jmh.version}</version>
 		</dependency>
+		<dependency>
+			<groupId>org.neosearch.stringsearcher</groupId>
+			<artifactId>multiple-string-searcher</artifactId>
+			<version>0.2.0</version>
+		</dependency>
 		<!-- <dependency> -->
 		<!-- <groupId>com.google.caliper</groupId> -->
 		<!-- <artifactId>caliper</artifactId> -->
